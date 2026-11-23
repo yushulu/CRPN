@@ -6,7 +6,7 @@ CRPN uses P3 as the central scale for feature fusion. It brings spatial detail f
 
 ## Core Modules
 
-The following PyTorch modules are available in `crpn_modules.py` and can be used independently.
+The following PyTorch modules are available in `crpn.py` and can be used independently.
 
 | Module | Function |
 | --- | --- |
